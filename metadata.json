@@ -1,0 +1,6 @@
+{
+  "name": "SynapseX",
+  "description": "Futuristic neural-AI interface landing page featuring real-time neural mapping, interactive timeline scrubbing, and adaptive computational intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
